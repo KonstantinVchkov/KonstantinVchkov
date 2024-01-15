@@ -35,5 +35,5 @@
 <p>Additional Tools & Technologies: GIT, Agile (SCRUM).</p>
 
 <h2>Connect with me</h2>
-<a href="https://www.docdroid.net/E3wDGwL" target="_blank">Resume</a><br/>
+<a href="https://vchkov.dev/" target="_blank">My Website</a><br/>
 <a href="https://www.linkedin.com/in/konstantin-vchkov-b39200210/" target="_blank">LinkedIn</a>
